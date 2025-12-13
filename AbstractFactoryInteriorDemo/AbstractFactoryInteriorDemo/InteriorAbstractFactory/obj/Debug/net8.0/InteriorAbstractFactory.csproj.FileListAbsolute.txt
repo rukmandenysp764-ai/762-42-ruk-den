@@ -1,0 +1,11 @@
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\bin\Debug\net8.0\InteriorAbstractFactory.deps.json
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\bin\Debug\net8.0\InteriorAbstractFactory.dll
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\bin\Debug\net8.0\InteriorAbstractFactory.pdb
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\obj\Debug\net8.0\InteriorAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\obj\Debug\net8.0\InteriorAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\obj\Debug\net8.0\InteriorAbstractFactory.AssemblyInfo.cs
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\obj\Debug\net8.0\InteriorAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\obj\Debug\net8.0\InteriorAbstractFactory.dll
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\obj\Debug\net8.0\refint\InteriorAbstractFactory.dll
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\obj\Debug\net8.0\InteriorAbstractFactory.pdb
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\InteriorAbstractFactory\obj\Debug\net8.0\ref\InteriorAbstractFactory.dll

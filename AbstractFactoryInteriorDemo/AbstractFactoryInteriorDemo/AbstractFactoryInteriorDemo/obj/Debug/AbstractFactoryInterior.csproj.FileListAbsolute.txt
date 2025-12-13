@@ -1,0 +1,2 @@
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\AbstractFactoryInteriorDemo\obj\Debug\AbstractFactoryInterior.csproj.AssemblyReference.cache
+C:\Users\Guru\source\repos\AbstractFactoryInteriorDemo\AbstractFactoryInteriorDemo\obj\Debug\AbstractFactoryInterior.csproj.CoreCompileInputs.cache
