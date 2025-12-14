@@ -1,0 +1,6 @@
+C:\Users\Guru\source\repos\FactoryMethodDemo\FactoryMethodClass\bin\Debug\FactoryMethodClass.dll
+C:\Users\Guru\source\repos\FactoryMethodDemo\FactoryMethodClass\bin\Debug\FactoryMethodClass.pdb
+C:\Users\Guru\source\repos\FactoryMethodDemo\FactoryMethodClass\obj\Debug\FactoryMethodClass.csproj.AssemblyReference.cache
+C:\Users\Guru\source\repos\FactoryMethodDemo\FactoryMethodClass\obj\Debug\FactoryMethodClass.csproj.CoreCompileInputs.cache
+C:\Users\Guru\source\repos\FactoryMethodDemo\FactoryMethodClass\obj\Debug\FactoryMethodClass.dll
+C:\Users\Guru\source\repos\FactoryMethodDemo\FactoryMethodClass\obj\Debug\FactoryMethodClass.pdb

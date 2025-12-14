@@ -1,0 +1,2 @@
+C:\Users\Guru\source\repos\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\FactoryMethodDemo.csproj.AssemblyReference.cache
+C:\Users\Guru\source\repos\FactoryMethodDemo\FactoryMethodDemo\obj\Debug\FactoryMethodDemo.csproj.CoreCompileInputs.cache
