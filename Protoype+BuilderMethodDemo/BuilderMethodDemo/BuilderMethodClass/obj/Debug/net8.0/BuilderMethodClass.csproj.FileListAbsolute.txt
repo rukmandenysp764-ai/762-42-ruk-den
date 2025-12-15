@@ -1,0 +1,11 @@
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\bin\Debug\net8.0\BuilderMethodClass.deps.json
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\bin\Debug\net8.0\BuilderMethodClass.dll
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\bin\Debug\net8.0\BuilderMethodClass.pdb
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\obj\Debug\net8.0\BuilderMethodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\obj\Debug\net8.0\BuilderMethodClass.AssemblyInfoInputs.cache
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\obj\Debug\net8.0\BuilderMethodClass.AssemblyInfo.cs
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\obj\Debug\net8.0\BuilderMethodClass.csproj.CoreCompileInputs.cache
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\obj\Debug\net8.0\BuilderMethodClass.dll
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\obj\Debug\net8.0\refint\BuilderMethodClass.dll
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\obj\Debug\net8.0\BuilderMethodClass.pdb
+C:\Users\Guru\source\repos\BuilderMethodDemo\BuilderMethodClass\obj\Debug\net8.0\ref\BuilderMethodClass.dll
