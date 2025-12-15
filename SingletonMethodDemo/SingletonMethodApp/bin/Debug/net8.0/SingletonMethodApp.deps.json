@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SingletonMethodApp/1.0.0": {
+        "dependencies": {
+          "SingletonMethodClass": "1.0.0"
+        },
+        "runtime": {
+          "SingletonMethodApp.dll": {}
+        }
+      },
+      "SingletonMethodClass/1.0.0": {
+        "runtime": {
+          "SingletonMethodClass.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SingletonMethodApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingletonMethodClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
