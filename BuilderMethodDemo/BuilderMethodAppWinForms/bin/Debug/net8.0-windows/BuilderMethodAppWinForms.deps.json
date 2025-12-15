@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BuilderMethodAppWinForms/1.0.0": {
+        "dependencies": {
+          "BuilderMethodClass": "1.0.0"
+        },
+        "runtime": {
+          "BuilderMethodAppWinForms.dll": {}
+        }
+      },
+      "BuilderMethodClass/1.0.0": {
+        "runtime": {
+          "BuilderMethodClass.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuilderMethodAppWinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuilderMethodClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
