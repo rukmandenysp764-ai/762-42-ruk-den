@@ -1,0 +1,11 @@
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\bin\Debug\net8.0\SingletonMethodClass.deps.json
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\bin\Debug\net8.0\SingletonMethodClass.dll
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\bin\Debug\net8.0\SingletonMethodClass.pdb
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\obj\Debug\net8.0\SingletonMethodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\obj\Debug\net8.0\SingletonMethodClass.AssemblyInfoInputs.cache
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\obj\Debug\net8.0\SingletonMethodClass.AssemblyInfo.cs
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\obj\Debug\net8.0\SingletonMethodClass.csproj.CoreCompileInputs.cache
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\obj\Debug\net8.0\SingletonMethodClass.dll
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\obj\Debug\net8.0\refint\SingletonMethodClass.dll
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\obj\Debug\net8.0\SingletonMethodClass.pdb
+C:\Users\Guru\source\repos\SingletonMethodDemo\SingletonMethodClass\obj\Debug\net8.0\ref\SingletonMethodClass.dll
