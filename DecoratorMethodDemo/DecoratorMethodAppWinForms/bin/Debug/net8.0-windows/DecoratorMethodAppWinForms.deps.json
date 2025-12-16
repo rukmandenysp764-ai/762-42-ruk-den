@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DecoratorMethodAppWinForms/1.0.0": {
+        "dependencies": {
+          "DecoratorMethodClass": "1.0.0"
+        },
+        "runtime": {
+          "DecoratorMethodAppWinForms.dll": {}
+        }
+      },
+      "DecoratorMethodClass/1.0.0": {
+        "runtime": {
+          "DecoratorMethodClass.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecoratorMethodAppWinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecoratorMethodClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
