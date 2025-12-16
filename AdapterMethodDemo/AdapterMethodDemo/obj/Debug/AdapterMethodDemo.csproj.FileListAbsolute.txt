@@ -1,0 +1,2 @@
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodDemo\obj\Debug\AdapterMethodDemo.csproj.AssemblyReference.cache
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodDemo\obj\Debug\AdapterMethodDemo.csproj.CoreCompileInputs.cache

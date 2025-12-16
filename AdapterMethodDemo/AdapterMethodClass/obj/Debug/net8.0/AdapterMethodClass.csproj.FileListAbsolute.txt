@@ -1,0 +1,11 @@
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\bin\Debug\net8.0\AdapterMethodClass.deps.json
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\bin\Debug\net8.0\AdapterMethodClass.dll
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\bin\Debug\net8.0\AdapterMethodClass.pdb
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\obj\Debug\net8.0\AdapterMethodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\obj\Debug\net8.0\AdapterMethodClass.AssemblyInfoInputs.cache
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\obj\Debug\net8.0\AdapterMethodClass.AssemblyInfo.cs
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\obj\Debug\net8.0\AdapterMethodClass.csproj.CoreCompileInputs.cache
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\obj\Debug\net8.0\AdapterMethodClass.dll
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\obj\Debug\net8.0\refint\AdapterMethodClass.dll
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\obj\Debug\net8.0\AdapterMethodClass.pdb
+C:\Users\Guru\source\repos\AdapterMethodDemo\AdapterMethodClass\obj\Debug\net8.0\ref\AdapterMethodClass.dll

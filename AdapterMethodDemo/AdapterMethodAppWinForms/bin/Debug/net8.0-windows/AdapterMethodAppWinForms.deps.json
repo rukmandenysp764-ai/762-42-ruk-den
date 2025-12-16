@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdapterMethodAppWinForms/1.0.0": {
+        "dependencies": {
+          "AdapterMethodClass": "1.0.0"
+        },
+        "runtime": {
+          "AdapterMethodAppWinForms.dll": {}
+        }
+      },
+      "AdapterMethodClass/1.0.0": {
+        "runtime": {
+          "AdapterMethodClass.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdapterMethodAppWinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdapterMethodClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
