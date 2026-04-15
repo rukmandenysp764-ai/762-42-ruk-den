@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\obj\Debug\ChainOfResponsibilityAppWinForms.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\obj\Debug\ChainOfResponsibilityAppWinForms.Form1.resources
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\obj\Debug\ChainOfResponsibilityAppWinForms.Properties.Resources.resources
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\obj\Debug\ChainOfResponsibilityAppWinForms.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\obj\Debug\ChainOfResponsibilityAppWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\bin\Debug\ChainOfResponsibilityAppWinForms.exe.config
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\bin\Debug\ChainOfResponsibilityAppWinForms.exe
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\bin\Debug\ChainOfResponsibilityAppWinForms.pdb
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\obj\Debug\ChainOfResponsibilityAppWinForms.exe
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityAppWinForms\obj\Debug\ChainOfResponsibilityAppWinForms.pdb

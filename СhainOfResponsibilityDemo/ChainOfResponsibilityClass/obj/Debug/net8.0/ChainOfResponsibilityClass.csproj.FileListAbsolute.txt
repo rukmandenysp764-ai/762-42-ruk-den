@@ -1,0 +1,11 @@
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\bin\Debug\net8.0\ChainOfResponsibilityClass.deps.json
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\bin\Debug\net8.0\ChainOfResponsibilityClass.dll
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\bin\Debug\net8.0\ChainOfResponsibilityClass.pdb
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\obj\Debug\net8.0\ChainOfResponsibilityClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\obj\Debug\net8.0\ChainOfResponsibilityClass.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\obj\Debug\net8.0\ChainOfResponsibilityClass.AssemblyInfo.cs
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\obj\Debug\net8.0\ChainOfResponsibilityClass.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\obj\Debug\net8.0\ChainOfResponsibilityClass.dll
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\obj\Debug\net8.0\refint\ChainOfResponsibilityClass.dll
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\obj\Debug\net8.0\ChainOfResponsibilityClass.pdb
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\ChainOfResponsibilityClass\obj\Debug\net8.0\ref\ChainOfResponsibilityClass.dll
