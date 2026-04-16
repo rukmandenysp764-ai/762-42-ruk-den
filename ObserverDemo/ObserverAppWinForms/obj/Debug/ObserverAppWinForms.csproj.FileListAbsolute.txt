@@ -1,0 +1,10 @@
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\bin\Debug\ObserverAppWinForms.exe.config
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\bin\Debug\ObserverAppWinForms.exe
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\bin\Debug\ObserverAppWinForms.pdb
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\obj\Debug\ObserverAppWinForms.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\obj\Debug\ObserverAppWinForms.Form1.resources
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\obj\Debug\ObserverAppWinForms.Properties.Resources.resources
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\obj\Debug\ObserverAppWinForms.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\obj\Debug\ObserverAppWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\obj\Debug\ObserverAppWinForms.exe
+C:\Users\Denis\source\repos\ObserverDemo\ObserverAppWinForms\obj\Debug\ObserverAppWinForms.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zn3vlyKZS/0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\source\\repos\\ObserverDemo\\ObserverClass\\ObserverClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.6\\microsoft.win32.systemevents.10.0.6.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\system.drawing.common\\10.0.6\\system.drawing.common.10.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
