@@ -1,0 +1,2 @@
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\СhainOfResponsibilityDemo\obj\Debug\СhainOfResponsibilityDemo.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\СhainOfResponsibilityDemo\СhainOfResponsibilityDemo\obj\Debug\СhainOfResponsibilityDemo.csproj.CoreCompileInputs.cache
